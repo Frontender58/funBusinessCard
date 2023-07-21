@@ -1,0 +1,25 @@
+.me {
+width: 638px;
+height: 1080px;
+}
+
+.me__face {  
+position: absolute;  
+}
+
+.me__developer {
+background-color: #121212;
+width: 638px;
+height: 103px;
+position: relative;
+top: 976px;
+}
+
+.text { 
+color: white;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+padding: 14px 96px 14px 86px;
+}
+

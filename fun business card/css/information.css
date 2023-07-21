@@ -1,0 +1,234 @@
+.information {
+position: relative;
+bottom: 1070px;
+margin: 70px 142px 0 708px;
+padding-left: 20px;
+width: 1150px;
+height: 640px;
+}
+
+.information__name {
+width: 534px ;
+}
+
+.information__name_modification {
+color: #121212;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+padding-bottom: 50px;
+}
+
+.information__city {
+color: #121212;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+}
+
+.information__links-items {
+display: flex;
+}
+
+.Inst {
+padding-right: 30px;
+}
+
+.Whatsapp {
+padding-right: 30px;
+}
+
+.VK {
+padding-right: 30px;
+}
+
+.Telegram {
+padding-right: 30px;
+}
+
+.IN {
+padding-right: 30px;
+}
+
+.Cat {
+padding-right: 30px;
+}
+
+a:hover {
+background-color: aqua;
+cursor: pointer;
+}
+
+.stack {
+padding-top: 50px;
+}
+
+.stack__text {
+color: #121212;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+padding-bottom: 20px;
+}
+
+.stack__buttons-html {
+width: 198px;
+height: 66px;
+padding: 14px 55px 14px 55px;
+background-color: #414141;
+color: #FFFFFF;
+border-radius: 45px;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;  
+margin-right: 25px;
+}
+
+.stack__buttons-css  {
+width: 170px;
+height: 66px;  
+padding: 14px 55px 14px 55px;
+background-color: #414141;
+color: #FFFFFF;
+border-radius: 45px;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;  
+margin-right: 25px;
+}
+
+.stack__buttons-saas {
+width: 181px;
+height: 66px;    
+padding: 14px 55px 14px 55px;
+background-color: #414141;
+color: #FFFFFF;
+border-radius: 45px;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+margin-right: 25px;
+}
+
+.stack__buttons-bem {
+width: 180px;
+height: 66px; 
+padding: 14px 55px 14px 55px;
+background-color: #414141;
+color: #FFFFFF;
+border-radius: 45px;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px; 
+margin-right: 25px;
+}
+
+.stack__buttons-flexbox {
+width: 221px;
+height: 66px;   
+padding: 14px 55px 14px 55px;
+background-color: #414141;
+color: #FFFFFF;
+border-radius: 45px;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px; 
+margin-right: 25px;
+}
+
+.about {
+margin-top: 50px;
+}
+
+.about__me {
+color: #121212;  
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+padding-bottom: 20px;
+}
+
+.about__text {
+width: 1026px;
+height: 162px;
+}
+
+.about__text-characters {
+color: #121212; 
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+text-indent: 30px;
+}
+
+.about__text-hobbies {
+margin-top: 7px;  
+color: #121212;  
+font-size: 32px;
+line-height: 37px;
+text-indent: 30px;
+}
+
+.contacts { 
+width: 702px;
+height: 157px;
+position: relative;
+bottom: 1070px;
+margin: 27px 142px 0 728px;
+}
+
+.contacts__form {
+display: flex; 
+flex-wrap: wrap;
+}
+
+.contacts__form-email {
+width: 338px;
+height: 66px;  
+box-sizing: border-box;
+padding: 14px 243px 14px 16px;
+border-radius: 11px;
+background-color: #FFFFFF;
+margin-right: 20px;
+}
+
+.contacts__form-text {
+width: 338px;
+height: 66px;   
+box-sizing: border-box;
+padding: 14px 152px 14px 16px;
+border-radius: 11px;
+background-color: #FFFFFF;
+color: #121212;
+margin-bottom: 25px;
+}
+
+.contacts__form-button {
+width: 702px;  
+height: 66px;
+padding: 14px 207px 14px 207px;
+box-sizing: border-box;
+border-radius: 11px;
+background-color: #121212;
+}
+
+.contacts__form-decoration {
+color: #FFFFFF;  
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+}
+
+input::placeholder {
+color: #121212;
+width: 338px;
+height: 38px;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+}
+
+.contacts__form-button:hover {
+cursor: pointer;
+background-color: aqua;
+}

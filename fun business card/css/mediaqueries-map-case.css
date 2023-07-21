@@ -1,0 +1,174 @@
+@media (max-width: 992px) {
+  .base {
+    width: 992px;
+    height: 724px; 
+  }
+
+  .me {
+  width: 372px;  
+  height: 724px;
+  }
+
+  .me__face {
+  width: 372px;
+  height: 658px;
+  }
+
+  .me__developer {
+  width: 372px;
+  height: 66px;
+  top: 658px;
+  }
+
+  .text {
+  font-size: 36px;
+  line-height: 42px;
+  padding: 12px 61px 12px 73px;
+  }
+
+  .information {
+  bottom: 766px;
+  margin: 70px 142px 0 397px;
+  padding-left: 20px;
+  width: 570px;
+  height: 550px;
+  }
+
+  .information__name {
+  width: 356px;
+  }
+
+  .information__name_modification {
+  font-size: 32px;
+  line-height: 37px;
+  padding-bottom: 30px;
+  }
+
+  .information__city {
+    font-size: 20px;
+    line-height: 23px;
+    }
+
+  .stack {
+  padding-top: 30px;
+  }
+
+  .stack__text {
+  font-size: 24px;
+  line-height: 28px;
+  }
+
+  .stack__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  }
+
+  .stack__buttons-html {
+  width: 156px;
+  height: 48px;  
+  padding: 10px 45px 10px 45px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-right: 20px;
+  }
+
+  .stack__buttons-css {
+  width: 135px;
+  height: 48px;   
+  padding: 8px 45px 10px 41px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-right: 20px;
+  }
+
+  .stack__buttons-saas {
+  width: 143px;
+  height: 48px;  
+  padding: 8px 45px 10px 42px;
+  font-size: 24px;
+  line-height: 28px;
+  }
+
+  .stack__buttons-bem {
+  order: 2;  
+  width: 142px;
+  height: 48px;   
+  margin-top: 20px;  
+  padding: 9px 45px 10px 43px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-right: 20px;
+  }
+
+  .stack__buttons-flexbox { 
+  width: 174px;
+  height: 48px;    
+  margin-top: 20px;  
+  padding: 8px 45px 10px 43px;
+  font-size: 24px;
+  line-height: 28px;
+  }
+
+  .about {
+    margin-top: 30px;
+    }
+
+  .about__me {
+    font-size: 24px;
+    line-height: 28px;
+    }
+
+  .about__text {
+  width: 530px;
+  height: 125px;
+  }
+
+    .about__text-characters {
+    font-size: 20px;
+    line-height: 23px;
+    }
+    
+    .about__text-hobbies {
+    font-size: 20px;
+    line-height: 23px;
+    }
+
+    .contacts { 
+    width: 484px;
+    height: 116px;
+    bottom: 776px;
+    margin: 20px 142px 0 417px;
+    }
+    
+    .contacts__form-email {
+    width: 232px;
+    height: 48px;  
+    padding: 10px 157px 10px 16px;
+    }
+    
+    .contacts__form-text {
+    width: 232px;
+    height: 48px;   
+    padding: 10px 88px 10px 16px;
+    margin-bottom: 20px;
+    }
+    
+    .contacts__form-button {
+    width: 484px;  
+    height: 48px;
+    padding: 10px 134px 10px 134px;
+    }
+    
+    .contacts__form-decoration {
+    font-size: 24px;
+    line-height: 28px;
+    }
+
+    input::placeholder {
+    font-size: 24px;
+    line-height: 28px;
+    }
+
+
+
+  }
